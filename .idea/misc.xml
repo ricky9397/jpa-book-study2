@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EntryPointsManager">
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="javax.persistence.Entity" />
+      <item index="1" class="java.lang.String" itemvalue="javax.persistence.GeneratedValue" />
+      <item index="2" class="java.lang.String" itemvalue="lombok.NonNull" />
+      <item index="3" class="java.lang.String" itemvalue="org.springframework.beans.factory.annotation.Autowired" />
+      <item index="4" class="java.lang.String" itemvalue="org.springframework.boot.test.autoconfigure.web.servlet.WebMvcTest" />
+      <item index="5" class="java.lang.String" itemvalue="org.springframework.boot.test.context.SpringBootTest" />
+      <item index="6" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.GetMapping" />
+      <item index="7" class="java.lang.String" itemvalue="org.springframework.web.bind.annotation.RestController" />
+    </list>
+    <writeAnnotations>
+      <writeAnnotation name="org.springframework.beans.factory.annotation.Autowired" />
+      <writeAnnotation name="javax.persistence.GeneratedValue" />
+      <writeAnnotation name="lombok.NonNull" />
+    </writeAnnotations>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
